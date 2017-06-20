@@ -1,5 +1,5 @@
 "use strict";
-// number Fibonacci
+// number Fibonacci !!!
 var k;
 k = +prompt("enter number", "");
 var a1 = 1;
